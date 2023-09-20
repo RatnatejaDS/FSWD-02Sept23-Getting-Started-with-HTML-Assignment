@@ -1,0 +1,26 @@
+Write a short note on Tag and element with an example
+
+In HTML , "tags" and "elements" are fundamental concepts used to structure and define the content of a web page
+
+**HTML Tags:**
+    1. A tag is a fundamental building block in HTML. It consists of angle brackets (< and >) and is used to define elements within an HTML document.
+    2. Tags are used to mark the beginning and end of an element. They are enclosed in angle brackets, and most come in pairs (an opening tag and a closing tag).
+    3. Tags are not visible on the webpage; they are used to structure and describe the content.
+
+**Element:**
+    1. An element consists of one or more tags and the content they enclose. It represents a specific part of the webpage, such as text, images, links, or structural elements like headings or paragraphs.
+    2. Elements are the actual components that make up a webpage's content and can be seen by users when they view the webpage in a web browser.
+    3. Elements are created by using opening and closing tags, with the content placed between them.
+
+**Example:**
+    Here's an example of an HTML tag and element:
+        <p>This is a paragraph element.</p>
+
+    In this example:
+        1. <p> is the opening tag, and </p> is the closing tag.
+        2. Together, <p> and </p> define a paragraph element.
+        3. "This is a paragraph element." is the content of the paragraph element.
+
+When rendered in a web browser, this HTML code will display the text "This is a paragraph element." as a paragraph on the webpage.
+
+So, in summary, tags are used to define elements, and elements represent the actual content that users see on a webpage. HTML documents are constructed by combining various elements using tags to create a structured and visually appealing web page.

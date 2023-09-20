@@ -1,0 +1,27 @@
+Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document?
+
+**Comments:** 
+    1. in HTML, Comments serve the purpose of providing human-readable explanations or notes within the HTML code
+    2. They are not displayed on the webpage and are meant for developers or anyone working with the code to understand it better. 
+    3. We can use comments in an HTML document in following ways: 
+
+**Single-line Comments:** 
+    1. We can use single-line comments to add explanations to specific lines of code.
+    2. These comments start with <!-- and end with -->. Here's an example:
+        <p>This is a regular paragraph.</p>
+        <!-- This is a comment explaining the next line -->
+        <p>This is another paragraph.</p>
+    3. In this example, the comment <!-- This is a comment explaining the next line --> provides information about the following paragraph.
+
+**Multi-line Comments:** 
+    1. We can also create multi-line comments to add explanations that span multiple lines.
+    2. These comments start with <!-- and end with -->, just like single-line comments. Here's an example:
+        <!--
+        This is a multi-line comment.
+        It can span across multiple lines,
+    providing detailed explanations.
+            -->
+        <p>This paragraph is not inside the comment.</p>
+    3. Multi-line comments are useful for providing more extensive documentation or notes within your HTML code.
+
+        Comments in HTML are an essential part of maintaining and documenting the code, especially in larger and more complex projects. They help the developer writing the code and other developers to understand the purpose of specific elements or sections of code. Remember that comments are not displayed in the web browser; they are solely for developers' reference.
